@@ -32,7 +32,8 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 - React, Java + Spring Boot, Python. 
 - **TODO:** React application containing UI components for interacting with backend data.
 - Microservice architecture with service-to-service communcation.
-- Fully Dockerized.  
+- Fully Dockerized.
+  
 🔗 [Repo link](https://github.com/amoore3234/job-link-app) to the Job Link Application
 
 ---
@@ -45,6 +46,7 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 - Swagger configured for testing API endpoints.
 - Integration testing.
 - Fully Dockerized.
+  
 🔗 [Repo link](https://github.com/amoore3234/job-portal-service) to the Job Portal Service.
 
 ---
@@ -55,6 +57,7 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 - FastAPI docs configured for testing API endpoints.  
 - Integration testing.
 - Fully Dockerized.
+  
 🔗 [Repo link](https://github.com/amoore3234/job-board-api) to the Job Board API service.
 
 ---
