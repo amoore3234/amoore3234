@@ -1,12 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/9P1Zy7B.png" width="100%" alt="banner"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Your Name</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Anthony Moore</span></h1>
 
 <p align="center">
-  <strong>Software Engineer | Backend & Cloud Developer | Angular Enthusiast</strong>
+  <strong>Software Engineer | Backend & Cloud Developer</strong>
 </p>
 
 ---
@@ -21,73 +16,57 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 ## 🛠️ Tech Stack
 
 ### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,redis)
 
 ### **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+![My Skills](https://skillicons.dev/icons?i=spring,nodejs,angular,react)
 
 ### **DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+![My Skills](https://skillicons.dev/icons?i=docker,azure,kubernetes,grafana)
 
 ---
 
-## 📌 Highlighted Projects
+## 📌 My Recent Projects
 
-### 🔹 **Project 1 — Cloud-Native Microservice**
-- Java + Spring Boot  
-- Dockerized and deployed to **Azure App Service**  
-- Fully CI/CD automated using GitHub Actions  
-🔗 *Add your repo link here*
-
----
-
-### 🔹 **Project 2 — Angular Admin Dashboard**
-- Angular + Node.js backend  
-- JWT Authentication  
-- Reusable UI components  
-🔗 *Add your repo link here*
+### 🔹 **Project 1 — Job Link Application**
+- React, Java + Spring Boot, Python. 
+- **TODO:** React application containing UI components for interacting with backend data.
+- Microservice architecture with service-to-service communcation.
+- Fully Dockerized.  
+🔗 [Repo link](https://github.com/amoore3234/job-link-app) to the Job Link Application
 
 ---
 
-### 🔹 **Project 3 — Python Data Processing Pipeline**
-- Built with Python + Pandas  
-- Optimized for large dataset ingestion  
-- Deployed with Azure Functions  
-🔗 *Add your repo link here*
+### 🔹 **Project 2 — Job Portal Service**
+- Java + Spring Boot.
+- Spring Security configured for login functionality.  
+- OAuth2.0 strategy utilized for submitting secured requests.
+- Uses WebClient dependency to communicate and submit client calls.
+- Swagger configured for testing API endpoints.
+- Integration testing.
+- Fully Dockerized.
+🔗 [Repo link](https://github.com/amoore3234/job-portal-service) to the Job Portal Service.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
-</p>
+### 🔹 **Project 3 — Job Board API**
+- Built with Python + Playwright 
+- CRUD methods for database interaction
+- FastAPI docs configured for testing API endpoints.  
+- Integration testing.
+- Fully Dockerized
+🔗 [Repo link](https://github.com/amoore3234/job-board-api) to the Job Board API service.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-link/">
+  <a href="https://www.linkedin.com/in/amoore3228/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:akmoore3234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
