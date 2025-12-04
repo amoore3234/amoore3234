@@ -54,7 +54,7 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 - CRUD methods for database interaction
 - FastAPI docs configured for testing API endpoints.  
 - Integration testing.
-- Fully Dockerized
+- Fully Dockerized.
 🔗 [Repo link](https://github.com/amoore3234/job-board-api) to the Job Board API service.
 
 ---
