@@ -30,7 +30,7 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 
 ### 🔹 **Project 1 — Job Link Application**
 - React, Java + Spring Boot, Python. 
-- **TODO:** React application containing UI components for interacting with backend data.
+- React application containing UI components for interacting with backend data.
 - Microservice architecture with service-to-service communcation.
 - Fully Dockerized.
   
@@ -52,8 +52,8 @@ I love crafting clean architectures, optimizing performance, and delivering reli
 ---
 
 ### 🔹 **Project 3 — Job Board API**
-- Built with Python + Playwright 
-- CRUD methods for database interaction
+- Built with Python + Playwright.
+- CRUD methods for database interaction.
 - FastAPI docs configured for testing API endpoints.  
 - Integration testing.
 - Fully Dockerized.
