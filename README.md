@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Anthony Moore</span></h1>
 
 <p align="center">
-  <strong>Software Engineer | Backend & Cloud Developer</strong>
+  <strong>Full Stack Software Developer | Backend & Cloud Developer</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Software Engineer** specializing in building scalable backend systems, cloud-native apps, and modern web interfaces.  
+I’m a **Full Stack Developer** specializing in building scalable backend systems, cloud-native apps, and modern web interfaces.  
 I love crafting clean architectures, optimizing performance, and delivering reliable software.
 
 ---
